@@ -3,7 +3,7 @@
 An interactive, client-side web application engineered to calculate and evaluate key physiological health indicators. Designed with responsive layouts and strict validation logic for use in educational and health screening environments.
 
 ## 🔗 Live Application
-👉 [Click here to view the live interactive calculator](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
+👉 [Click here to view the live interactive calculator](https://github.com/shopiotherworks-star/bmi-whr-calculator/settings/pages)
 
 ## 🛠️ Features & Methodology
 * **BMI Assessment:** Evaluates Body Mass Index dynamically adjusted to the **World Health Organization (WHO) Asian Classification Standards** ($18.5 - 22.9$ for optimal ranges) to account for distinct metabolic risk variations.
