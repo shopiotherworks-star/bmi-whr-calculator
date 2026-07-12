@@ -1,4 +1,4 @@
-# 🩺 Clinical Metrics Calculator: BMI, WHR, & IBW
+# 🩺 Clinical Metrics Calculator: BMI, WHR, & IBW for Asian population
 
 An interactive, client-side web application engineered to calculate and evaluate key physiological health indicators. Designed with responsive layouts and strict validation logic for use in educational and health screening environments.
 
